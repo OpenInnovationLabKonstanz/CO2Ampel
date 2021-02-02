@@ -3,7 +3,7 @@ A device for visual representation of  CO2 concentraition in the air. Helps moni
 
 ## Project Overview
 
-
+ToDo
 
 ## Hardware
 
