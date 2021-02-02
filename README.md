@@ -1,8 +1,8 @@
 # CO2Ampel
 A device for visual representation of  CO2 concentraition in the air. Helps monitoring air quality in order to reduce the risk of COVID19 infections in closed rooms.
 
-![Photo](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/blob/master/Documentation/co2_1.jpg )
-![Photo](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/blob/master/Documentation/co2_3.jpg )
+![Photo](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/raw/main/Documentation/co2_1.jpg )
+![Photo](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/raw/main/Documentation/co2_3.jpg )
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ ToDo: ...
 
 ## Hardware
 
-![Photo](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/blob/master/Documentation/co2_overview.jpg )
+![Photo](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/raw/main/Documentation/co2_overview.jpg )
 
 The device consists of a CO2 sensor, connected to a ESP32-WROOM-32 as main controller. Three large LED arrays (red, yellow, green) are used as a indicator for air quality. In addition, a numeric display shows the current CO2 concentration in ppm.
 
@@ -38,7 +38,7 @@ The PCB is routed as a 2-layer PCB. Parts are only placed on the top side in ord
 Layout files are provided as Eagle 6.4 .brd and .sch files.
 
 
-![PCB](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/blob/master/Documentation/co2_pcb.png )
+![PCB](https://github.com/OpenInnovationLabKonstanz/CO2Ampel/raw/main/Documentation/co2_pcb.png )
 
 ## Software
 The firmware for the ESP32 is written in Arduino, using the ESP32-Arduino support package.
